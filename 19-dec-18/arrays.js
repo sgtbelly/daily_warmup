@@ -14,5 +14,19 @@ whileloop(){
     i++}
 }
 
+const newPeople = ['Odie','Kookla', 'Fran', 'Ollie', 'Garfield'];
 
+const newStuff = {
+    tv: 'huge',
+    radio: 'old',
+    toothbrush: 'frayed',
+    cars: ['Toyota', 'Mazda', 'Chevy']
+}
+
+let state = {};
+
+let newPeople = [];
+
+const newStuff = {};
+let newState = {};
 
