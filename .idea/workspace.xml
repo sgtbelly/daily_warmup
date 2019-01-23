@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aac2f0a-3a58-4233-9cf8-36682b28a5d2" name="Default Changelist" comment="">
+
       <change afterPath="$PROJECT_DIR$/old data/queueWithStacks/queue-with-stacks.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/old data/stacksAndQueues/stacks-and-queues.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/old data/tree/.idea/encodings.xml" afterDir="false" />
@@ -21,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/practice-queue.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/practice-sorting.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/practice-trees.js" beforeDir="false" />
+
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,16 +34,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/19-dec-18/arrays.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="329">
               <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+
             </state>
           </provider>
         </entry>
       </file>
+
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3-JAN-18/practice-arrays.js">
           <provider selected="true" editor-type-id="text-editor" />
@@ -72,6 +77,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -80,6 +86,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+
         <option value="$PROJECT_DIR$/practice-stack28DEC18.js" />
         <option value="$PROJECT_DIR$/practice-queue28DEC18.js" />
         <option value="$PROJECT_DIR$/22-DEC-18/practice-arrays.js" />
@@ -89,6 +96,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="814" />
@@ -114,6 +122,7 @@
               <item name="daily_warmup" type="462c0819:PsiDirectoryNode" />
               <item name="19-dec-18" type="462c0819:PsiDirectoryNode" />
             </path>
+
             <path>
               <item name="daily_warmup" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily_warmup" type="462c0819:PsiDirectoryNode" />
@@ -147,6 +156,7 @@
               <item name="old data" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
+
           </expand>
           <select />
         </subPane>
@@ -196,20 +206,24 @@
       <updated>1545983683505</updated>
       <workItem from="1545983684734" duration="1067000" />
       <workItem from="1546104079419" duration="20000" />
+
       <workItem from="1546104126510" duration="2523000" />
       <workItem from="1546294339336" duration="2735000" />
       <workItem from="1546372568044" duration="377000" />
       <workItem from="1546584215799" duration="518000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
     <option name="totallyTimeSpent" value="8296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34477827" />
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,7 +235,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
+
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.38017753" />
+
       <window_info anchor="bottom" id="Quokka" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -233,6 +249,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+
     <entry file="file://$PROJECT_DIR$/28-dec-18/practice-stack28DEC18.js" />
     <entry file="file://$PROJECT_DIR$/28-dec-18/practice-queue28DEC18.js" />
     <entry file="file://$PROJECT_DIR$/19-dec-18/practice-arrays.js">
