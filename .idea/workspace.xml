@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aac2f0a-3a58-4233-9cf8-36682b28a5d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/19-dec-18/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-DEC-18/practice-arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-DEC-18/practice-sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-DEC-18/practice-trees.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-linked-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-practice-stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-dec-18/practice-trees.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-linked-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-practice-stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-sorting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-JAN-18/practice-trees.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-graph28DEC18.js" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-linked-list28DEC18.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/practice-graph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-queue28DEC18.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/practice-linked-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-sorting28DEC18.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/practice-objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-stack28DEC18.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/practice-practice-stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-trees28DEC18.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/practice-queue.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +41,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/19-dec-18/practice-arrays.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -33,6 +68,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/19-dec-18/practice-arrays.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -51,6 +87,11 @@
             <path>
               <item name="daily_warmup" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily_warmup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="daily_warmup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_warmup" type="462c0819:PsiDirectoryNode" />
+              <item name="3-JAN-18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="daily_warmup" type="b2602c69:ProjectViewProjectNode" />
@@ -97,16 +138,18 @@
       <workItem from="1546104126510" duration="306000" />
       <workItem from="1548217115744" duration="1052000" />
       <workItem from="1548289761974" duration="6000" />
+      <workItem from="1549679902573" duration="1685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2451000" />
+    <option name="totallyTimeSpent" value="4136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3397711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34477827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -123,7 +166,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Terminal" order="3" visible="true" weight="0.4041488" />
+      <window_info anchor="right" id="Terminal" order="3" weight="0.4041488" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +177,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
