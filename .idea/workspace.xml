@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aac2f0a-3a58-4233-9cf8-36682b28a5d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/22-DEC-18/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/queue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/22-DEC-18/stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/stack.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,15 +19,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/22-DEC-18/stack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/22-DEC-18/queue.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -42,6 +47,7 @@
         <option value="$PROJECT_DIR$/19-dec-18/arrays.js" />
         <option value="$PROJECT_DIR$/22-DEC-18/array.js" />
         <option value="$PROJECT_DIR$/22-DEC-18/sack.js" />
+        <option value="$PROJECT_DIR$/22-DEC-18/queue.js" />
         <option value="$PROJECT_DIR$/22-DEC-18/stack.js" />
       </list>
     </option>
@@ -110,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.stack.js">
+  <component name="RunManager">
     <configuration name="array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/22-DEC-18/array.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -141,23 +147,23 @@
       <workItem from="1548289761974" duration="6000" />
       <workItem from="1549679902573" duration="6175000" />
       <workItem from="1549690727925" duration="228000" />
-      <workItem from="1549691421443" duration="1329000" />
+      <workItem from="1549691421443" duration="4804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10183000" />
+    <option name="totallyTimeSpent" value="13658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="814" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3389711" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3389711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32909784" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41296062" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -202,15 +208,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-DEC-18/stack.js">
+    <entry file="file://$PROJECT_DIR$/22-DEC-18/queue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-DEC-18/queue.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/22-DEC-18/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
