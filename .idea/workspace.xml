@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aac2f0a-3a58-4233-9cf8-36682b28a5d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22-DEC-18/array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-DEC-18/stack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19-dec-18/practice-arrays.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-arrays.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/queue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-linked-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-objects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-practice-stack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-queue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-sorting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-DEC-18/practice-trees.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-arrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-DEC-18/stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/22-DEC-18/stack.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/22-DEC-18/stack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -54,13 +42,13 @@
         <option value="$PROJECT_DIR$/19-dec-18/arrays.js" />
         <option value="$PROJECT_DIR$/22-DEC-18/array.js" />
         <option value="$PROJECT_DIR$/22-DEC-18/sack.js" />
+        <option value="$PROJECT_DIR$/22-DEC-18/stack.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="814" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,15 +141,16 @@
       <workItem from="1548289761974" duration="6000" />
       <workItem from="1549679902573" duration="6175000" />
       <workItem from="1549690727925" duration="228000" />
-      <workItem from="1549691421443" duration="1030000" />
+      <workItem from="1549691421443" duration="1329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9884000" />
+    <option name="totallyTimeSpent" value="10183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="814" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3389711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -215,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/22-DEC-18/stack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
