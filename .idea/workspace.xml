@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1aac2f0a-3a58-4233-9cf8-36682b28a5d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-JAN-18/practice-arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-graph.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-linked-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-JAN-18/practice-linked-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-objects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-practice-stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-JAN-18/practice-practice-stack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-JAN-18/practice-queue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-sorting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-JAN-18/practice-trees.js" beforeDir="false" afterPath="$PROJECT_DIR$/3-JAN-18/practice-trees.js" afterDir="false" />
-    </list>
+    <list default="true" id="1aac2f0a-3a58-4233-9cf8-36682b28a5d2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -178,17 +168,17 @@
       <workItem from="1549690727925" duration="228000" />
       <workItem from="1549691421443" duration="5341000" />
       <workItem from="1549730918704" duration="2972000" />
-      <workItem from="1550368642234" duration="744000" />
+      <workItem from="1550368642234" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17911000" />
+    <option name="totallyTimeSpent" value="18163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25329122" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25329122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,7 +192,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.4040661" />
       <window_info anchor="bottom" id="Quokka" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49964765" visible="true" weight="0.32885212" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49964765" visible="true" weight="0.32885212" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
